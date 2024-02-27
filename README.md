@@ -1,6 +1,6 @@
 # PROCESSO SELETIVO - TARGET
 
-Questões 2 e 5, para facilitar, podem ser rodadas no site chamado [Replit](https://replit.com/), não precisando baixar nenhum programa. Para instalar, só [clicar aqui](https://replit.com/).
+Questões 2 e 5, para facilitar, podem ser rodadas no site chamado [Replit](https://replit.com/), não precisando baixar nenhum programa, basta apenas [clicar aqui](https://replit.com/).
 
 Questão 3, você precisa seguir os seguintes passos, considerando que está usando o VSCODE:
 
